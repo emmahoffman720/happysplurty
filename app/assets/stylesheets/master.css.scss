@@ -9,13 +9,13 @@
     font-style: italic;
     position: relative;
     border-radius: 100%;
-    background: #f84342;
+    background: #3AC7B9;
     border: 1px solid #F7F7F7;
     width: 80px;
     height: 80px;
     margin: 10px 10px;
     text-align: center;
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 10px;
     line-height: 16px;
     cursor: pointer;
@@ -58,4 +58,17 @@ h1 {
 
 h2 {
   font-family: "Noto Serif", serif;
+}
+
+.next-quote {
+  color: #3DB8AB;
+  font-family: "Noto Serif", serif;
+  fint-size: 20px;
+}
+
+.footer-blurb {
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-style: italic;
+  text-align: right;
+  font-size: 10px;  
 }
